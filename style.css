@@ -58,7 +58,7 @@ section{
     }
     .nav_links{
         flex-direction: column; position: absolute;
-        width: 60%; top: 0; right: -1000px; height: 75%;
+        width: 60%; top: 0; right: -1000px; height: fit-content;
         background: rgb(195, 195, 227);
         padding: 3rem 1rem; align-items: start;
     }
